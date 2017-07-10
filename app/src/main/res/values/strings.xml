@@ -5,4 +5,14 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+
+    <!--Text Content-->
+    <string name="text_content_name">Jose María Garzo Ardisoni</string>
+    <string name="text_address">Apt 23 Grove Court, Grove Road, Blanchardstown, Dublin15 </string>
+    <string name="text_email">jmgarzo@gmail.com</string>
+    <string name="text_phone_number">085 746 1494</string>
+    <string name="text_link_linkedin">https://ie.linkedin.com/in/jmgarzo </string>
+
+    <string name="text_summary"> Summary </string>
 </resources>
