@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66047505404",
+    "firebase_url": "https://mycv-b4c28.firebaseio.com",
+    "project_id": "mycv-b4c28",
+    "storage_bucket": "mycv-b4c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66047505404:android:f3dcebc5bd4d2fd3",
+        "android_client_info": {
+          "package_name": "com.jmgarzo.mycv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66047505404-h8analgvms27ehkeogsoprkhh9jp71h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByQG7CvX1Bl3YH8GgP0P5JHUG_E4OiKBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
