@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">MyCv</string>
 
+    <string name="summary">Summary</string>
+    <string name="summary_content">I am highly competent software engineer with 5 years’ experience designing and programming software. I have worked on
+        projects from concept to completion.\n\nRecently I have finished the Associate Android Developer Fast Track by Google. I am a Google Certified Associate Android
+        Developer. I am interested in work as an Android Developer.</string>
+
+    <string name="skills">Skills</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
